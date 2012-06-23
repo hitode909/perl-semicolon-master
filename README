@@ -1,0 +1,14 @@
+perl semicolon master
+
+
+learn from other projects
+
+  ruby learn.rb ~/Plack/
+
+auto append semicolon
+
+  ruby guess.rb example/fizzbuzz.pl
+
+execute
+
+  perl output.pl
